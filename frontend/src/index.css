@@ -7,8 +7,6 @@
     --color-active: #0f7dc6;
 }
 
-
-
 body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -28,8 +26,6 @@ header {
     color: white;
 }
 
-
-
 header>a {
     color: white;
     text-decoration: none;
@@ -42,6 +38,7 @@ header>a:hover {
 
 footer {
     height: 22px;
+    line-height: 22px;
     background-color: var(--color-bg);
     padding: 0;
     text-align: left;

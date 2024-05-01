@@ -17,7 +17,7 @@ const Layout = () => {
           <Outlet />
         </article>
       </main>
-      <footer className="container">
+      <footer>
         <a href="http://localhost:8000/swagger-ui/">Swagger</a>
       </footer>
     </>
